@@ -1,6 +1,6 @@
 # GraphCart: E-Commerce Recommendations and Inventory Management
 
-GraphCart is a CIA III project built from the submitted case study, **Leveraging Graph Databases for Real-Time Product Recommendations and Inventory Management in E-Commerce**. It uses Neo4j to store connected customer, product, purchase, supplier, warehouse, stock, and order data.
+GraphCart is a demo project built from the submitted case study, **Leveraging Graph Databases for Real-Time Product Recommendations and Inventory Management in E-Commerce**. It uses Neo4j to store connected customer, product, purchase, supplier, warehouse, stock, and order data.
 
 ## Features
 
